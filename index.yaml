@@ -3,7 +3,17 @@ entries:
   ec-service:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-04-23T02:08:41.160868-04:00"
+    created: "2022-04-23T02:37:47.940214-04:00"
+    description: EC Service Helm chart for Kubernetes
+    digest: 1971518665144a176dd075e962409254586dd10a4aef90cfe2ebdd7de7414565
+    name: ec-service
+    type: application
+    urls:
+    - https://mvenukadasula.github.io/helm-repo/ec-service-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2022-04-23T02:37:47.93964-04:00"
     description: EC Service Helm chart for Kubernetes
     digest: 1f68a5291b4f2eddb1eeae5975411696ff00e2b692b8321e542d0d59e13cd237
     name: ec-service
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://mvenukadasula.github.io/helm-repo/ec-service-0.1.1.tgz
     version: 0.1.1
-generated: "2022-04-23T02:08:41.160082-04:00"
+generated: "2022-04-23T02:37:47.938921-04:00"
